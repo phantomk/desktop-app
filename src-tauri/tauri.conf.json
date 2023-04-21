@@ -63,7 +63,7 @@
       "csp": "default-src 'self'; img-src * data:"
     },
     "updater": {
-      "active": true,
+      "active": false,
       "endpoints": [
         "https://gist.githubusercontent.com/brendanosborne/a8440ea78d0d60bbc48c45aa873c6624/raw/tunnlto-updater.json"
       ],
